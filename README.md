@@ -25,7 +25,7 @@ Login Card             |  Main Navigation
 
 ![gamepage2-new](https://github.com/mgagel/sql-education-game/assets/73076495/b6fb1e04-9169-4c54-a7fb-b075a1a38388)
 
-### Editor View - Wrong Input
+### Editor View - Input sanitization
 
 ![Editor-example](https://github.com/mgagel/sql-education-game/assets/73076495/7009fe0b-dba3-4533-a5fb-270a069e5874)
 
